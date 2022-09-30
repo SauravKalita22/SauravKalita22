@@ -1,5 +1,6 @@
 # Hey There Everyone <img src="https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif" width="40px" alt="hand waving">
-## My name is **SAURAV KALITA** 
+## My name is **SAURAV KALITA** from India and I'm an upcoming Software Developer. I did my 3 years Bachelor's degree in Computer Science from Mithibai College,Mumbai,India. I am learning front end development and Open Source and I hope that I can help others do the same in the future.
+
 
 ### Here are my social links
 - <a href="https://twitter.com/SKalita0221"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20px"></a>
