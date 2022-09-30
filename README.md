@@ -2,8 +2,8 @@
 ## My name is **SAURAV KALITA** 
 
 ### Here are my social links
-- <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="30px"> [Twitter](https://twitter.com/SKalita0221)
-- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="30px"> [LinkedIn](https://www.linkedin.com/in/saurav-kalita-24230923b/)
+- <img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20px"> [Twitter](https://twitter.com/SKalita0221)
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20px"> [LinkedIn](https://www.linkedin.com/in/saurav-kalita-24230923b/)
 
 <!--
 **SauravKalita22/SauravKalita22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
