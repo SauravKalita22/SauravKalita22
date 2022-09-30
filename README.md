@@ -1,6 +1,7 @@
-# Hey There Everyone, My name is Saurav 
+# Hey There Everyone ![hand waving](https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif)
+## My name is **SAURAV KALITA** 
 
-## My social links
+### Here are my social links
 - [Twitter](https://twitter.com/SKalita0221)
 - [LinkedIn](https://www.linkedin.com/in/saurav-kalita-24230923b/)
 
