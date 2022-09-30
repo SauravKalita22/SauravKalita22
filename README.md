@@ -1,4 +1,4 @@
-# Hey There Everyone ![hand waving](https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif = 200x200)
+# Hey There Everyone ![hand waving](https://media.tenor.com/62H2GipHhHUAAAAi/marvel-future-revolution-marvel-future-fight.gif =200x200)
 ## My name is **SAURAV KALITA** 
 
 ### Here are my social links
