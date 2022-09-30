@@ -1,5 +1,9 @@
 # Hey There Everyone, My name is Saurav 
 
+## My social links
+- [Twitter](https://twitter.com/SKalita0221)
+- [LinkedIn](https://www.linkedin.com/in/saurav-kalita-24230923b/)
+
 <!--
 **SauravKalita22/SauravKalita22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
