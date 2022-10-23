@@ -5,7 +5,7 @@
 
 
 ### Here are my social links
-- <a href="https://twitter.com/SKalita0221" target="_blank"><img src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" width="20px"></a>
+- <a href="https://twitter.com/SKalita0221" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" width="20px"></a>
 - <a href="https://www.linkedin.com/in/saurav-kalita-24230923b/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="20px"></a>
 
 <!--
